@@ -7,35 +7,15 @@
 <h3>Full Stack Developer • Programming Instructor • Computer Science Graduate</h3>
 
 <p>
-📍 Cairo, Egypt • 🎓 Faculty of Computers & Artificial Intelligence – Sohag University<br>
-🚀 ITI 4-Month Full Stack (MERN) Program
+📍 Cairo, Egypt <br>
+🎓 Faculty of Computers & Artificial Intelligence – Sohag University <br>
+🚀 ITI 4-Month Full Stack (MERN) Program <br>
+🏢 Programming Facilitator – <b>Samsung Innovation Campus</b>
 </p>
-
-<a href="https://www.linkedin.com/in/hossam-hassan-abd-al-bari" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:hossamhassanabdalbari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://www.facebook.com/hossam.hassan.312487" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Hossam%20Hassan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://wa.me/201278453746" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-01278453746-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/hossamhassan2451/?hl=en" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-hossamhassan2451-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=hossam48349&style=flat&color=orange&label=PROFILE+VIEWS" />
 
 </div>
-
 
 ---
 
@@ -102,7 +82,7 @@ I’m also part of the **ITI 4-Month Full Stack (MERN) Program**, strengthening 
 - **Coding Instructor – Jeeltech**: Python fundamentals & logical thinking for beginners and kids.  
 - **Programming Instructor – Digital Egypt Cubs Initiative**: Trained **500+ students** in Problem Solving, Python, C, and DSA.  
 - **Back-End Developer – Code Spark**: Built PHP/MySQL apps serving **1K+ users**.  
-- **Coding Facilitator – Samsung Innovation Campus**: Mentored learners in programming, DSA, and AI fundamentals.
+- **Programming Facilitator – Samsung Innovation Campus**: Mentored learners in programming, DSA, and AI fundamentals.
 
 ---
 
@@ -110,6 +90,38 @@ I’m also part of the **ITI 4-Month Full Stack (MERN) Program**, strengthening 
 - **ITI – 4-Month Full Stack (MERN) Program**
 - **Mahara Tech (ITI)**: Web Apps (PHP & MySQL) • Database Fundamentals • Network Fundamentals
 - **Samsung Innovation Campus**: Coding & AI Courses
+
+---
+
+## 📫 Contact & Socials
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hossam-hassan-abd-al-bari" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hossamhassanabdalbari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://www.facebook.com/hossam.hassan.312487" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Hossam%20Hassan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://wa.me/201278453746" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-01278453746-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/hossamhassan2451/?hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-hossamhassan2451-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+### 🤝 Call to Action
+> **Open to collaboration, freelance opportunities, and technical discussions.**  
+> If you’re interested in working together or just want to talk tech, feel free to reach out 🚀
 
 ---
 
@@ -123,25 +135,14 @@ I’m also part of the **ITI 4-Month Full Stack (MERN) Program**, strengthening 
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-<!-- Easy stats (works immediately) -->
-
-</div>
-
----
-
 <div align="center">
 
 <b>Code Cycle</b><br><br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="9%" alt="Broken system!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="9%"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="9%" alt="It's working!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="9%"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="9%" alt="It's working but you don't know how!"/>
-
-<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="9%"/>
 
 </div>
