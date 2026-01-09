@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <h1>Hi 👋, I'm Hossam Hassan</h1>
-<h3>Software Developer • Programming Instructor • Computer Science Graduate</h3>
+<h3>Full Stack Developer • Programming Instructor • Computer Science Graduate</h3>
 
 📍 Cairo, Egypt • 🎓 Faculty of Computers & Artificial Intelligence – Sohag University  
 🚀 ITI 4-Month Full Stack (MERN) Program
