@@ -42,7 +42,8 @@
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    </p>
+    </p> <br><<hr>
+    لاق
 ## 👨‍💻 About Me
 I’m a **Computer Science graduate** with hands-on experience in **full stack development** and a strong background in **teaching programming**.  
 I focus on building clean, maintainable solutions and helping learners develop solid foundations in **problem solving and software engineering**.
