@@ -6,16 +6,16 @@
 <h1>Hi 👋, I'm Hossam Hassan</h1>
 <h3>Full Stack Developer • Programming Instructor • Computer Science Graduate</h3>
 
-📍 Cairo, Egypt • 🎓 Faculty of Computers & Artificial Intelligence – Sohag University  
+<p>
+📍 Cairo, Egypt • 🎓 Faculty of Computers & Artificial Intelligence – Sohag University<br>
 🚀 ITI 4-Month Full Stack (MERN) Program
-
-<br>
+</p>
 
 <a href="https://www.linkedin.com/in/hossam-hassan-abd-al-bari" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:hossamhassanabdalbari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
@@ -24,64 +24,79 @@
 
 </div>
 
-<hr>
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    </p> <<hr>
+---
+
 ## 👨‍💻 About Me
 I’m a **Computer Science graduate** with hands-on experience in **full stack development** and a strong background in **teaching programming**.  
-I focus on building clean, maintainable solutions and helping learners develop solid foundations in **problem solving and software engineering**.
+I build clean, maintainable solutions and help learners develop solid foundations in **problem solving** and **software engineering**.
 
-Alongside my professional work, I’m part of the **ITI 4-Month Full Stack (MERN) Program**, strengthening my skills in modern web development and scalable application design.
+I’m also part of the **ITI 4-Month Full Stack (MERN) Program**, strengthening my expertise in modern web development and scalable application design.
 
 ---
 
-## 🧠 Core Skills
-- **Programming:** C, C++, Python, JavaScript, SQL  
-- **Web:** HTML, CSS, PHP, MySQL • MERN Stack  
-- **CS Fundamentals:** Data Structures, Algorithms, Problem Solving, OOP  
-- **Databases:** SQL, Normalization, DB Design, Query Optimization  
-- **Tools:** Git/GitHub, Linux, VS Code  
-- **Other:** Software Testing, Flask, IoT & Embedded Systems
+## 🧠 Tech Stack (Clean & Organized)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+> Replace `LINK_HERE` with your repo / live demo links.
+
+- 🥤 **Schweppes** — Brand website with responsive layout & clean UI  
+  🔗 LINK_HERE
+
+- 🔧 **hafaracrepair** — Service/repair platform concept  
+  🔗 LINK_HERE
+
+- 🍽️ **Resti** — Restaurant system concept (flows + structure)  
+  🔗 LINK_HERE
+
+- 🛠️ **Sany3y-Sohag-Mobile-Application** — Connecting craftsmen with customers  
+  🔗 LINK_HERE
+
+- 🏥 **Sihhati** — Healthcare-oriented system concept  
+  🔗 LINK_HERE
+
+- 🏨 **Hospital-4U** — Hospital management system concept  
+  🔗 LINK_HERE
 
 ---
 
 ## 👨‍🏫 Experience Highlights
-- **Coding Instructor – Jeeltech**  
-  Delivered interactive sessions for beginners and kids, focusing on Python fundamentals and logical thinking.
-
-- **Programming Instructor – Digital Egypt Cubs Initiative**  
-  Trained **500+ students** in Problem Solving, Python, C, and Data Structures/Algorithms.
-
-- **Back-End Developer – Code Spark**  
-  Built and optimized PHP/MySQL applications serving **1K+ users**.
-
-- **Coding Facilitator – Samsung Innovation Campus**  
-  Mentored learners in programming, DS/Algorithms, and AI fundamentals, and supervised graduation teams.
+- **Coding Instructor – Jeeltech**: Python fundamentals & logical thinking for beginners and kids.  
+- **Programming Instructor – Digital Egypt Cubs Initiative**: Trained **500+ students** in Problem Solving, Python, C, and DSA.  
+- **Back-End Developer – Code Spark**: Built PHP/MySQL apps serving **1K+ users**.  
+- **Coding Facilitator – Samsung Innovation Campus**: Mentored learners in programming, DSA, and AI fundamentals.
 
 ---
 
 ## 📚 Training & Programs
 - **ITI – 4-Month Full Stack (MERN) Program**
-- **Web Applications using PHP & MySQL – Mahara Tech (ITI)**
-- **Database Fundamentals – Mahara Tech (ITI)**
-- **Computer Network Fundamentals – Mahara Tech (ITI)**
-- **Samsung Innovation Campus – Coding & AI Courses**
+- **Mahara Tech (ITI)**: Web Apps (PHP & MySQL) • Database Fundamentals • Network Fundamentals
+- **Samsung Innovation Campus**: Coding & AI Courses
 
 ---
 
@@ -89,25 +104,22 @@ Alongside my professional work, I’m part of the **ITI 4-Month Full Stack (MERN
 <summary><b>🎧 While coding, I listen to</b></summary>
 
 🔊 **Quran Recitation – Sheikh Minshawi**  
-▶️ Listen here: https://server10.mp3quran.net/minsh/002.mp3
+▶️ https://server10.mp3quran.net/minsh/002.mp3
 
 </details>
 
-
-<hr>
+---
 
 ## 📊 GitHub Stats
 <div align="center">
 
+<!-- Easy stats (works immediately) -->
+<img src="https://github-readme-stats.vercel.app/api?username=hossam48349&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossam48349&layout=compact&theme=tokyonight" height="170" />
+
 </div>
 
-<details>
-  <summary><b>More stats</b></summary>
-  <br>
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
-
-<hr>
+---
 
 <div align="center">
 
