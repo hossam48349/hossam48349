@@ -27,7 +27,7 @@
 <hr>
 
 ## 👨‍💻 About Me
-I’m a **Computer Science graduate** with hands-on experience in **backend development** and a strong background in **teaching programming**.  
+I’m a **Computer Science graduate** with hands-on experience in **full stack development** and a strong background in **teaching programming**.  
 I focus on building clean, maintainable solutions and helping learners develop solid foundations in **problem solving and software engineering**.
 
 Alongside my professional work, I’m part of the **ITI 4-Month Full Stack (MERN) Program**, strengthening my skills in modern web development and scalable application design.
@@ -69,11 +69,13 @@ Alongside my professional work, I’m part of the **ITI 4-Month Full Stack (MERN
 ---
 
 <details>
-<summary><b>🎧 Busy coding & vibing to</b></summary>
+<summary><b>🎧 While coding, I listen to</b></summary>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+🔊 **Quran Recitation – Sheikh Minshawi**  
+▶️ Listen here: https://server10.mp3quran.net/minsh/002.mp3
 
 </details>
+
 
 <hr>
 
