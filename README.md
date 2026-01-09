@@ -11,23 +11,30 @@
 🚀 ITI 4-Month Full Stack (MERN) Program
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hossam-hassan-abd-al-bari" target="_blank">
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="42" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/hossam.hassan.312487" target="_blank">
-    <img src="https://media.giphy.com/media/LPgFwCQg4HQB8HTL6E/giphy.gif" width="42" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/201278453746" target="_blank">
-    <img src="https://media.giphy.com/media/YWUpVw86AtIbe/giphy.gif" width="42" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/hossamhassan2451/?hl=en" target="_blank">
-    <img src="https://media.giphy.com/media/XEy1qZ0qXz9R1Hc4v7/giphy.gif" width="42" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/hossam-hassan-abd-al-bari" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hossamhassanabdalbari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://www.facebook.com/hossam.hassan.312487" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Hossam%20Hassan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://wa.me/201278453746" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-01278453746-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/hossamhassan2451/?hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-hossamhassan2451-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=hossam48349&style=flat&color=orange&label=PROFILE+VIEWS" />
+
+</div>
 
 
 ---
