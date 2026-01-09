@@ -114,8 +114,6 @@ I’m also part of the **ITI 4-Month Full Stack (MERN) Program**, strengthening 
 <div align="center">
 
 <!-- Easy stats (works immediately) -->
-<img src="https://github-readme-stats.vercel.app/api?username=hossam48349&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossam48349&layout=compact&theme=tokyonight" height="170" />
 
 </div>
 
