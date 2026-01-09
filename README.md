@@ -81,10 +81,6 @@ Alongside my professional work, I’m part of the **ITI 4-Month Full Stack (MERN
 
 ## 📊 GitHub Stats
 <div align="center">
- ## 📊 GitHub Stats
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
 
 </div>
 
