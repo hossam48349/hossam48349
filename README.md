@@ -63,7 +63,7 @@ I’m also part of the **ITI 4-Month Full Stack (MERN) Program**, strengthening 
 ## 🚀 Featured Projects
 
 ### 🏪 Alzahraa Shop — Full Stack Store Management System
-**Description:** Designed and developed a scalable full-stack management system for Alzahraa stores featuring an administrative dashboard interface to track inventory, sales, and user roles. [cite: 46, 49, 50]
+**Description:** Designed and developed a scalable full-stack management system for Alzahraa stores featuring an administrative dashboard interface to track inventory, sales, and user roles. 
 **Key Features:** User authentication, inventory management, sales tracking, and administrative workflows following clean architecture. 
 **Tech Stack:** Angular, Node.js, Express.js, MongoDB, Bootstrap, Tailwind CSS. 
 * **Links:** * 🔗 [Live Demo](https://github.com/yourusername) * 💻 [GitHub Repository](https://github.com/yourusername) ---
