@@ -61,26 +61,45 @@ I’m also part of the **ITI 4-Month Full Stack (MERN) Program**, strengthening 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)---
 
 ## 🚀 Featured Projects
-> Replace `LINK_HERE` with your repo / live demo links.
 
-- 🥤 **Schweppes** — Brand website with responsive layout & clean UI  
-  🔗 LINK_HERE
+### 🏪 Alzahraa Shop — Full Stack Store Management System
+* [cite_start]**Description:** Designed and developed a scalable full-stack management system for Alzahraa stores featuring an administrative dashboard interface to track inventory, sales, and user roles. [cite: 46, 49, 50]
+* [cite_start]**Key Features:** User authentication, inventory management, sales tracking, and administrative workflows following clean architecture. [cite: 50]
+* [cite_start]**Tech Stack:** Angular, Node.js, Express.js, MongoDB, Bootstrap, Tailwind CSS. [cite: 49, 50]
+* **Links:** * 🔗 [Live Demo](https://github.com/yourusername) * 💻 [GitHub Repository](https://github.com/yourusername) ---
 
-- 🔧 **hafaracrepair** — Service/repair platform concept  
-  🔗 LINK_HERE
+### 🥛 B.LABAN — Restaurant Web Application
+* [cite_start]**Description:** A modern restaurant web application built with a focus on high performance and fluid user experience. [cite: 51, 52]
+* [cite_start]**Key Features:** Fully responsive UI, dynamic routing, and optimized frontend performance. [cite: 52]
+* [cite_start]**Tech Stack:** React.js, Tailwind CSS. [cite: 52]
+* **Links:** * 🔗 [Live Demo](https://github.com/yourusername) * 💻 [GitHub Repository](https://github.com/yourusername) ---
 
-- 🍽️ **Resti** — Restaurant system concept (flows + structure)  
-  🔗 LINK_HERE
+### 🎬 Movies App — Movie Discovery Platform
+* [cite_start]**Description:** A clean movie discovery platform where users can browse, search, and filter through a massive database of films. [cite: 53, 54]
+* [cite_start]**Key Features:** External API integration, advanced search & filtering, and fully responsive layouts. [cite: 54]
+* [cite_start]**Tech Stack:** React.js, REST APIs. [cite: 54]
+* **Links:** * 🔗 [Live Demo](https://github.com/yourusername) * 💻 [GitHub Repository](https://github.com/yourusername) ---
 
-- 🛠️ **Sany3y-Sohag-Mobile-Application** — Connecting craftsmen with customers  
-  🔗 LINK_HERE
+### 🎁 Donations — Backend REST API
+* [cite_start]**Description:** A robust and secure backend REST API tailored for managing donation workflows and platform data safely. [cite: 54, 55]
+* [cite_start]**Key Features:** Secure JWT authentication, full CRUD operations, and structured database management. [cite: 14, 55]
+* [cite_start]**Tech Stack:** Node.js, Express.js, MongoDB. [cite: 55]
+* **Links:** * 💻 [GitHub Repository](https://github.com/yourusername) ---
 
-- 🏥 **Sihhati** — Healthcare-oriented system concept  
-  🔗 LINK_HERE
+### 📚 Book Store — Scalable Backend API
+* [cite_start]**Description:** A production-ready backend application for an online bookstore, engineered using strict typing and enterprise-level standards. [cite: 56, 57]
+* [cite_start]**Key Features:** Built following a strict Modular Architecture, secure API endpoints, and clean data-transfer object (DTO) patterns. [cite: 57]
+* [cite_start]**Tech Stack:** Nest.JS, TypeScript, REST APIs. [cite: 57]
+* **Links:** * 💻 [GitHub Repository](https://github.com/yourusername) ---
 
-- 🏨 **Hospital-4U** — Hospital management system concept  
-  🔗 LINK_HERE
+### 🏥 Hospital-4U — Healthcare & Appointment Platform
+* [cite_start]**Description:** A comprehensive full-stack healthcare platform designed to streamline medical workflows and patient interactions. [cite: 58, 59]
+* [cite_start]**Key Features:** Instant patient appointment booking, comprehensive patient profiles, and medical data management. [cite: 59]
+* **Tech Stack:** React.js, Node.js, Express.js, MongoDB. * **Links:** * 💻 [GitHub Repository](https://github.com/yourusername) ```
 
+### 💡 Tips for your Profile README:
+* [cite_start]**Hyperlinks:** Don't forget to replace `https://github.com/yourusername` with the actual links to your repositories or deployed applications[cite: 51, 53, 54, 56, 58].
+* **Icons:** HTML/CSS/JS tech stack icons can be added right under the title later if you want to make it look even more visual!
 ---
 
 ## 👨‍🏫 Experience Highlights
