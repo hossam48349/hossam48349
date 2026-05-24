@@ -96,9 +96,6 @@ I’m also part of the **ITI 4-Month Full Stack (MERN) Program**, strengthening 
 **Key Features:** Instant patient appointment booking, comprehensive patient profiles, and medical data management. 
 * **Tech Stack:** React.js, Node.js, Express.js, MongoDB. * **Links:** * 💻 [GitHub Repository](https://github.com/yourusername) ```
 
-### 💡 Tips for your Profile README:
-**Hyperlinks:** Don't forget to replace `https://github.com/yourusername` with the actual links to your repositories or deployed applications * **Icons:** HTML/CSS/JS tech stack icons can be added right under the title later if you want to make it look even more visual!
----
 
 ## 👨‍🏫 Experience Highlights
 - **Coding Instructor – Jeeltech**: Python fundamentals & logical thinking for beginners and kids.  
