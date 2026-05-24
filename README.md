@@ -115,29 +115,51 @@ I’m also part of the **ITI 4-Month Full Stack (MERN) Program**, strengthening 
 
 ---
 
-## 📫 Contact & Socials
+## 🌍 Connect With Me
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Amazing+🚀;Full+Stack+Developer+💻;Open+To+Freelance+%26+Collaborations+🔥" />
+
+<br>
+
 <p align="center">
+Passionate Full Stack Developer focused on building modern, scalable, and user-friendly web applications using the latest technologies.
+</p>
+
+<br>
+
+<a href="mailto:hossamhassanabdalbari@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-hossamhassanabdalbari%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+</a>
 
 <a href="https://www.linkedin.com/in/hossam-hassan-abd-al-bari" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
 </a>
-<a href="mailto:hossamhassanabdalbari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="https://wa.me/201278453746" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-+20%201278453746-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a" />
 </a>
 
 <br><br>
 
 <a href="https://www.facebook.com/hossam.hassan.312487" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Hossam%20Hassan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://wa.me/201278453746" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-01278453746-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/hossamhassan2451/?hl=en" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-hossamhassan2451-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-Hossam%20Hassan-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a1a" />
 </a>
 
-</p>
+<a href="https://www.instagram.com/hossamhassan2451/?hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@hossamhassan2451-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=footer"/>
+
+</div>
 
 ---
 
